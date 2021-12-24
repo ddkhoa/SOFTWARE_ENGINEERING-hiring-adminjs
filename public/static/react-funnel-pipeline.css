@@ -1,0 +1,28 @@
+
+._1WnkD {
+  -webkit-clip-path: polygon(0 0, 100% 0, 60% 78%, 60% 90%, 40% 100%, 40% 78%);
+  clip-path: polygon(0 0, 100% 0, 60% 78%, 60% 90%, 40% 100%, 40% 78%);
+  text-align: center;
+}
+
+._1WnkD ._1JWHC {
+  width:100%;
+  min-height: 1px;
+  font-size: 12px;
+  padding: 10px 0;
+  margin: 2px 0;
+  color:white;
+}
+
+._1WnkD ._1JWHC:last-child {
+  padding-bottom: 40px;
+}
+
+._1WnkD ._1JWHC:hover {
+  background-color: #484848 !important;
+}
+
+._1WnkD ._1JWHC ._3tM6f {
+  font-size: 1.1rem;
+  padding-bottom: 5px;
+}
